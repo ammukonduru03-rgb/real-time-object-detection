@@ -27,6 +27,23 @@ This project performs real-time object detection using a webcam feed. It uses th
 * MobileNetSSD_deploy.prototxt.txt
 * MobileNetSSD_deploy.caffemodel
 
+## Project Documentation
+
+The repository includes an XMind mind map that visualizes:
+
+* Project Overview
+* Problem Statement
+* Technologies Used
+* Architecture
+* Workflow
+* Model Details
+* Implementation
+* Output
+* Challenges
+
+This mind map was used to structure and explain the project workflow and system design.
+
+
 ## Model File
 
 The MobileNetSSD_deploy.caffemodel file is not included in this repository due to GitHub upload limitations.
