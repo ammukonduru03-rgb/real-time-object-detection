@@ -23,7 +23,7 @@ This project performs real-time object detection using a webcam feed. It uses th
 
 ## Files
 
-* object_detection.py
+* main.py
 * MobileNetSSD_deploy.prototxt.txt
 * MobileNetSSD_deploy.caffemodel
 
